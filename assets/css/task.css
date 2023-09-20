@@ -1,0 +1,40 @@
+#drop-elem{
+    width: 600px ;
+    height: 500px;
+    background-color: grey;
+    float: right;
+    display: flex;
+    justify-content: space-evenly;
+    
+  }
+  
+  #drag-elem1{
+      width: 100px;
+      height: 100px;
+      background-color: orange;
+  }
+
+  #drag-elem2{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+
+#drag-elem3{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+
+#drag-elem4{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+
+.drag-all{
+    display: flex;
+    column-gap: 10px;
+    
+}
+
